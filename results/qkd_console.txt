@@ -1,0 +1,116 @@
+>> BB84 single session (seed 0)
+idx  A.bit A.basis  B.basis B.result  sifted
+  0      1  X        X           1     yes
+  1      1  X        X           1     yes
+  2      1  Z        Z           1     yes
+  3      0  X        Z           0     no
+  4      1  X        X           1     yes
+  5      0  X        X           0     yes
+  6      0  X        Z           1     no
+  7      1  X        Z           1     no
+  8      1  Z        X           0     no
+  9      1  X        X           1     yes
+ 10      1  X        Z           1     no
+ 11      1  X        Z           0     no
+ 12      0  Z        X           0     no
+ 13      0  X        Z           0     no
+ 14      1  Z        X           1     no
+ 15      0  X        X           0     yes
+ 16      0  X        Z           1     no
+ 17      0  Z        X           1     no
+ 18      1  Z        Z           1     yes
+ 19      1  Z        X           0     no
+ 20      1  Z        Z           1     yes
+ 21      1  Z        X           1     no
+ 22      0  X        X           0     yes
+ 23      0  Z        Z           0     yes
+ 24      0  Z        Z           0     yes
+ 25      0  Z        X           1     no
+ 26      0  X        X           0     yes
+ 27      1  X        X           1     yes
+ 28      1  X        Z           1     no
+ 29      0  X        Z           0     no
+ 30      0  Z        Z           0     yes
+ 31      0  Z        Z           0     yes
+ 32      0  X        Z           0     no
+ 33      0  X        X           0     yes
+ 34      0  X        X           0     yes
+ 35      1  X        Z           0     no
+ 36      0  Z        X           0     no
+ 37      1  X        X           1     yes
+ 38      0  Z        X           0     no
+ 39      0  X        Z           0     no
+ 40      1  X        Z           1     no
+ 41      0  X        Z           1     no
+ 42      1  Z        X           1     no
+ 43      1  Z        X           1     no
+ 44      0  Z        X           1     no
+ 45      0  Z        X           0     no
+ 46      0  X        X           0     yes
+ 47      0  X        X           0     yes
+ 48      1  X        X           1     yes
+ 49      0  X        Z           1     no
+ 50      1  Z        Z           1     yes
+ 51      1  X        Z           0     no
+ 52      1  X        Z           0     no
+ 53      0  Z        Z           0     yes
+ 54      1  X        X           1     yes
+ 55      1  X        Z           0     no
+ 56      1  Z        Z           1     yes
+ 57      1  X        Z           1     no
+ 58      1  Z        Z           1     yes
+ 59      0  X        Z           1     no
+ 60      0  X        X           0     yes
+ 61      1  X        Z           1     no
+ 62      1  X        X           1     yes
+ 63      0  Z        Z           0     yes
+ 64      1  Z        Z           1     yes
+ 65      0  X        Z           0     no
+ 66      1  Z        Z           1     yes
+ 67      1  X        X           1     yes
+ 68      1  Z        Z           1     yes
+ 69      0  Z        Z           0     yes
+ 70      0  X        Z           1     no
+ 71      1  X        X           1     yes
+ 72      0  X        X           0     yes
+ 73      1  Z        X           0     no
+ 74      1  X        X           1     yes
+ 75      1  X        X           1     yes
+ 76      0  Z        Z           0     yes
+ 77      0  X        X           0     yes
+ 78      0  X        Z           0     no
+ 79      0  Z        Z           0     yes
+ 80      0  X        X           0     yes
+ 81      1  Z        X           1     no
+ 82      0  X        X           0     yes
+ 83      1  X        X           1     yes
+ 84      1  Z        Z           1     yes
+ 85      1  Z        Z           1     yes
+ 86      1  X        Z           0     no
+ 87      1  X        Z           1     no
+ 88      1  Z        X           0     no
+ 89      0  X        X           0     yes
+ 90      1  Z        X           0     no
+ 91      1  X        Z           1     no
+ 92      0  Z        Z           0     yes
+ 93      0  Z        X           0     no
+ 94      0  X        Z           0     no
+ 95      0  Z        Z           0     yes
+ 96      1  X        Z           1     no
+ 97      0  Z        Z           0     yes
+ 98      0  Z        X           0     no
+ 99      0  Z        Z           0     yes
+
+qubits sent               100
+eve_intercept_prob        0
+bit_flip_prob             0
+sifted key length         52
+QBER sample size          10
+errors in sample          0
+QBER estimate             0.0000
+abort threshold           0.1100
+verdict                   PROCEED (QBER not above threshold)
+raw key length            42
+errors in raw key (truth) 0
+NOTE: no error correction, privacy amplification or authentication is simulated;
+      the raw key is NOT a secure key.

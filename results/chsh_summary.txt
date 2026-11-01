@@ -1,0 +1,21 @@
+CHSH summary
+trials                   100
+shots_per_setting_pair   2000
+total_shots              800000
+seed_range               0..99
+theory_S                 2.8284
+mean_S                   2.8315
+sd_S (n-1)               0.0350
+sem_S                    0.0035
+min_S                    2.7450 (trial 59)
+max_S                    2.9120 (trial 77)
+tsirelson_2sqrt2         2.8284
+mean_S_minus_tsirelson   0.0031
+trials_S_gt_2            100/100
+trials_S_gt_2.80         83/100
+trials_S_gt_2.85         32/100
+mean_E(a,b)              0.7065
+mean_E(a,b')             0.7082
+mean_E(a',b)             0.7082
+mean_E(a',b')            -0.7086
+runtime_seconds          0.82

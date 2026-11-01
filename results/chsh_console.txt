@@ -1,0 +1,125 @@
+>> CHSH test on |Phi+>: 100 trials, 2000 shots per setting pair (8000 per trial, 800000 in total)
+>> Angles: a=0 a'=90 b=45 b'=-45 (deg), seeds 0..99
+>> Theoretical S (from the state) = 2.82843, 2*sqrt(2) = 2.82843
+trial   0  S = 2.8760  ENTANGLED
+trial   1  S = 2.7750  ENTANGLED
+trial   2  S = 2.8970  ENTANGLED
+trial   3  S = 2.7810  ENTANGLED
+trial   4  S = 2.8430  ENTANGLED
+trial   5  S = 2.7990  ENTANGLED
+trial   6  S = 2.8110  ENTANGLED
+trial   7  S = 2.8470  ENTANGLED
+trial   8  S = 2.8220  ENTANGLED
+trial   9  S = 2.8270  ENTANGLED
+trial  10  S = 2.8270  ENTANGLED
+trial  11  S = 2.7830  ENTANGLED
+trial  12  S = 2.8330  ENTANGLED
+trial  13  S = 2.7600  ENTANGLED
+trial  14  S = 2.8590  ENTANGLED
+trial  15  S = 2.8060  ENTANGLED
+trial  16  S = 2.8850  ENTANGLED
+trial  17  S = 2.8110  ENTANGLED
+trial  18  S = 2.7940  ENTANGLED
+trial  19  S = 2.7910  ENTANGLED
+trial  20  S = 2.8600  ENTANGLED
+trial  21  S = 2.8320  ENTANGLED
+trial  22  S = 2.8030  ENTANGLED
+trial  23  S = 2.8930  ENTANGLED
+trial  24  S = 2.8370  ENTANGLED
+trial  25  S = 2.8460  ENTANGLED
+trial  26  S = 2.8690  ENTANGLED
+trial  27  S = 2.8300  ENTANGLED
+trial  28  S = 2.7860  ENTANGLED
+trial  29  S = 2.8140  ENTANGLED
+trial  30  S = 2.8430  ENTANGLED
+trial  31  S = 2.7570  ENTANGLED
+trial  32  S = 2.8650  ENTANGLED
+trial  33  S = 2.8530  ENTANGLED
+trial  34  S = 2.9010  ENTANGLED
+trial  35  S = 2.8110  ENTANGLED
+trial  36  S = 2.8550  ENTANGLED
+trial  37  S = 2.8640  ENTANGLED
+trial  38  S = 2.8340  ENTANGLED
+trial  39  S = 2.8470  ENTANGLED
+trial  40  S = 2.7620  ENTANGLED
+trial  41  S = 2.8200  ENTANGLED
+trial  42  S = 2.8140  ENTANGLED
+trial  43  S = 2.8570  ENTANGLED
+trial  44  S = 2.8590  ENTANGLED
+trial  45  S = 2.8540  ENTANGLED
+trial  46  S = 2.7660  ENTANGLED
+trial  47  S = 2.8540  ENTANGLED
+trial  48  S = 2.8070  ENTANGLED
+trial  49  S = 2.8410  ENTANGLED
+trial  50  S = 2.8130  ENTANGLED
+trial  51  S = 2.8000  ENTANGLED
+trial  52  S = 2.7710  ENTANGLED
+trial  53  S = 2.7720  ENTANGLED
+trial  54  S = 2.8450  ENTANGLED
+trial  55  S = 2.8290  ENTANGLED
+trial  56  S = 2.8620  ENTANGLED
+trial  57  S = 2.8490  ENTANGLED
+trial  58  S = 2.8380  ENTANGLED
+trial  59  S = 2.7450  ENTANGLED
+trial  60  S = 2.7980  ENTANGLED
+trial  61  S = 2.8590  ENTANGLED
+trial  62  S = 2.8350  ENTANGLED
+trial  63  S = 2.8270  ENTANGLED
+trial  64  S = 2.8790  ENTANGLED
+trial  65  S = 2.8650  ENTANGLED
+trial  66  S = 2.8370  ENTANGLED
+trial  67  S = 2.8020  ENTANGLED
+trial  68  S = 2.7800  ENTANGLED
+trial  69  S = 2.8590  ENTANGLED
+trial  70  S = 2.8560  ENTANGLED
+trial  71  S = 2.8260  ENTANGLED
+trial  72  S = 2.8890  ENTANGLED
+trial  73  S = 2.8470  ENTANGLED
+trial  74  S = 2.8400  ENTANGLED
+trial  75  S = 2.8490  ENTANGLED
+trial  76  S = 2.8020  ENTANGLED
+trial  77  S = 2.9120  ENTANGLED
+trial  78  S = 2.8230  ENTANGLED
+trial  79  S = 2.8520  ENTANGLED
+trial  80  S = 2.8590  ENTANGLED
+trial  81  S = 2.8140  ENTANGLED
+trial  82  S = 2.8590  ENTANGLED
+trial  83  S = 2.8080  ENTANGLED
+trial  84  S = 2.8100  ENTANGLED
+trial  85  S = 2.8650  ENTANGLED
+trial  86  S = 2.8230  ENTANGLED
+trial  87  S = 2.8020  ENTANGLED
+trial  88  S = 2.8780  ENTANGLED
+trial  89  S = 2.8340  ENTANGLED
+trial  90  S = 2.8280  ENTANGLED
+trial  91  S = 2.8200  ENTANGLED
+trial  92  S = 2.8080  ENTANGLED
+trial  93  S = 2.8230  ENTANGLED
+trial  94  S = 2.9060  ENTANGLED
+trial  95  S = 2.8570  ENTANGLED
+trial  96  S = 2.8190  ENTANGLED
+trial  97  S = 2.8150  ENTANGLED
+trial  98  S = 2.8690  ENTANGLED
+trial  99  S = 2.8290  ENTANGLED
+
+CHSH summary
+trials                   100
+shots_per_setting_pair   2000
+total_shots              800000
+seed_range               0..99
+theory_S                 2.8284
+mean_S                   2.8315
+sd_S (n-1)               0.0350
+sem_S                    0.0035
+min_S                    2.7450 (trial 59)
+max_S                    2.9120 (trial 77)
+tsirelson_2sqrt2         2.8284
+mean_S_minus_tsirelson   0.0031
+trials_S_gt_2            100/100
+trials_S_gt_2.80         83/100
+trials_S_gt_2.85         32/100
+mean_E(a,b)              0.7065
+mean_E(a,b')             0.7082
+mean_E(a',b)             0.7082
+mean_E(a',b')            -0.7086
+runtime_seconds          0.82

@@ -1,0 +1,6 @@
+BB84 ensemble: sessions=1000 qubits=100 sample=10 eve=0.0000 flip=0.0500 threshold=0.1100
+mean_sifted        49.9920
+mean_QBER_est      0.0261
+abort_rate         0.0320
+mean_raw_key_len   38.7310
+mean_true_error_in_raw_key (non-aborted) 0.0246
